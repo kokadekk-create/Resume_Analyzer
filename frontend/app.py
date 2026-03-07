@@ -3,7 +3,7 @@ import requests
 import time
 
 
-BACKEND_URL = "http://localhost:9000"
+BACKEND_URL = "http://localhost:8000"
 
 
 st.title("AI Resume Analyzer")

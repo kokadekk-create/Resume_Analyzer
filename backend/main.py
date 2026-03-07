@@ -87,7 +87,7 @@ def ask(question: str):
 
 
    payload = {
-       "model": "google/gemma-3-12b-it:free",
+       "model": "stepfun/step-3.5-flash:free",
        "messages": [
            {"role": "user", "content": question}
        ]
